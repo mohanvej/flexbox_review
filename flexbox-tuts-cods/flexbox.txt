@@ -1,0 +1,43 @@
+FLEX BOX 
+
+In this tutorial, you'll learn to use each and every Flexbox property:
+
+display: flex;
+
+flex-direction: column; / row;
+
+
+Styling flex containers:
+
+flex-direction: row-reverse;
+
+justify-content: center;
+
+align-items : center;/  stretch;/ baseline;/ flex-start;/ flex-end;
+ 
+flex-wrap : wrap;
+
+align-content: center;
+
+Then individual flex items:
+
+order : to aligning the objects 
+
+https://css-tricks.com/almanac/properties/f/flex/
+
+align-self
+
+flex-grow
+
+flex-shrink
+
+flex-basis
+
+flex
+
+GRID
+display: grid;
+
+grid-template-columns: auto auto auto auto;
+
+grid-template-rows: auto auto auto auto;
